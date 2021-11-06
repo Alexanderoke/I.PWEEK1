@@ -22,3 +22,8 @@ h1{
     padding-right: 40%;
     margin: 2%;
   }
+  .h1pimg{
+    background-color: cadetblue;
+    border-radius: 1%;
+    align-items: center;
+  }
