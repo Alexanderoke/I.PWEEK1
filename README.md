@@ -4,13 +4,13 @@
 ## Description
 {This portfolio landing page contains information about me, who i am as a person nd as a developer with a few projects i have managed to do as a beginer.}
 ## Setup/Installation Requirements
-* Clone the repo {git clone https://github.com/Alexanderoke/Independent-project.git}
+* Clone the repo {git clone https://github.com/Alexanderoke/I.PWEEK1.git
 * to list setup instructions
 * open using a web browser of your choice.
 
 
 {Here is the live link to the portfolio landing page.
-##  
+## https://alexanderoke.github.io/I.PWEEK1/
 ## Technologies Used
 {Languages used HTML and CSS.}
 ## Support and contact details
