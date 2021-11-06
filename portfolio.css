@@ -35,6 +35,6 @@ h1{
   .projects{
     background-color:olivedrab;
   }
-  .tw{
-    inset-block-end:unset;
+  .font{
+    font-size: 18px;
   }
