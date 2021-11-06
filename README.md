@@ -10,7 +10,7 @@
 
 
 {Here is the live link to the portfolio landing page.
-##  https://alexanderoke.github.io/Independent-project/
+##  
 ## Technologies Used
 {Languages used HTML and CSS.}
 ## Support and contact details
