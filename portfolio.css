@@ -12,7 +12,7 @@ h1{
     float:inline-end;
   }
   img{
-    border-radius: 50%;
+    border-radius: 10000%;
   }
   .aboutme{
     background-color:aquamarine;
@@ -20,10 +20,11 @@ h1{
     align-content: center;
     padding-left: 25%;
     padding-right: 40%;
-    margin: 2%;
+    margin: 5%;
   }
   .h1pimg{
     background-color: cadetblue;
     border-radius: 1%;
     align-items: center;
+    margin: 3%;
   }
