@@ -1,8 +1,10 @@
 h1{
   text-align:center;
   background-color:aqua
-  
-  }
+    }
   h2{
     text-align: center;
+  }
+  body{
+    background-color: rgb(255, 255, 250);
   }
